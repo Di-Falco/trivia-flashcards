@@ -1,0 +1,16 @@
+.card {
+  margin: 1%;
+  border-width: 3px;
+}
+
+.card-title {
+  text-align: center;
+}
+
+#answer-card-1 {
+  display: none;
+}
+
+#correct-answer {
+  text-align: center;
+}
